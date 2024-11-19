@@ -9,3 +9,6 @@ It now includes steps for GitHub
 Added this line
 
 Pull training
+
+
+Some changes
